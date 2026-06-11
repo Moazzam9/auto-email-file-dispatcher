@@ -89,9 +89,6 @@ Contains:
 Sent emails
 Missing attachments
 Failed deliveries
-🔐 Security Warning
-
-⚠️ NEVER upload your Gmail password to GitHub
 
 Use Gmail App Password instead:
 
