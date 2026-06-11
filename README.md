@@ -42,7 +42,7 @@ auto-email-file-dispatcher/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/auto-email-file-dispatcher.git
+git clone https://github.com/Moazzam9/auto-email-file-dispatcher.git
 cd auto-email-file-dispatcher
 2. Install dependencies
 pip install pandas
